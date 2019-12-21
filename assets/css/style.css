@@ -111,4 +111,10 @@
       .container {
         padding: 2px 16px;
       }
+    .grid{
+      grid-template-rows: auto;
     }
+    .banner{
+      position: absolute
+    }
+    
