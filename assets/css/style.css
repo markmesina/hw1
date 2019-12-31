@@ -34,25 +34,8 @@
     background-color: #22dfdf
 
   }
-  
-
-  
-  
   .header-right {
     float: right;
-  }
-  
-  @media screen and (max-width: 960px) {
-    .header a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
-    
-    .header-right {
-      float: none;
-    }
-    
   }
 /* footer set to bottom of page */
   .footer {
@@ -101,8 +84,5 @@
       .container {
         padding: 2px 16px;
       }
-    .grid{
-      grid-template-rows: auto;
-    }
-  
+    
     

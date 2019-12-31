@@ -4,3 +4,4 @@ This homework is a showcase of all learnings from Bootcamp Week 1. There are 3 h
 I started by creating my html content and worked on my css file. Hopefully as time goes, I will be able to perfect techniques and master self-researching methods.
 
 
+
